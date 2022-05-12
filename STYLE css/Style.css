@@ -5,13 +5,13 @@ h1{
     text-transform:uppercase;
 }
 span{
-    font-weight: bold;
+    color: blueviolet;
 }
 .color1{
     color: rgb(242, 0, 255);
 }
 table{
-    background-color: blueviolet;
+    background-color: red;
 }
 tr{
     background-color: aqua;
