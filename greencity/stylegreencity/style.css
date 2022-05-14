@@ -1,12 +1,11 @@
 .table-menu {
     background-color: gray;
     margin: 0 auto;
-    width: auto;
+    width: 1200 px;
 }
 body {
     margin: 0 auto;
 }
 .start {
-    margin: 1200px;
     background: url("../imggreencity/banner.png");
 }
