@@ -12,4 +12,8 @@ body {
 }
 .start td, .table-menu td {
     text-align: center;
+    color: white;
+}
+td.logo {
+    text-align: left;
 }
