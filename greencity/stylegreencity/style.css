@@ -30,3 +30,6 @@ td.logo {
     top: 538px;
     margin: 0 auto
 }
+.news {
+    border-top: 3px chartreuse;
+}
