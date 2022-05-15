@@ -33,14 +33,14 @@ td.logo {
 .news {
     text-align: center;
     border-top: 3px rgb(85, 147, 23);
+    margin: 0 auto;
+    color: gray;
 }
 span {
     color: green;
 }
-.news {
-    text-align: left;
-    color: gray;
-}
+.help {
+    margin: 0 auto;
 span {
     color: green;
     text-decoration: italic;
