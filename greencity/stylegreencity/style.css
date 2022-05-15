@@ -11,7 +11,7 @@ body {
     background: url("../imggreencity/banner.png");
     width: 1200px;
 }
-.table-menu td, .start td, a {
+.table-menu td, .start td, .information td a {
     text-align: center;
     color: white;
 }
