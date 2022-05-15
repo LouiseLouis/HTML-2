@@ -31,5 +31,6 @@ td.logo {
     margin: 0 auto
 }
 .news {
-    border-top: 3px chartreuse;
+    text-align: center;
+    border-top: 3px rgb(85, 147, 23);
 }
