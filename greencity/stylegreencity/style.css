@@ -37,3 +37,11 @@ td.logo {
 span {
     color: green;
 }
+.news {
+    text-align: left;
+    color: gray;
+}
+span {
+    color: green;
+    text-decoration: italic;
+}
