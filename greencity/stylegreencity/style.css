@@ -22,7 +22,11 @@ td.logo {
     text-align: left;
 }
 .info {
-    margin: 0 auto;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    width: 300px;
+    height: 146px;
+    left: 402px;
+    top: 538px;
+    font-weight: 700;
 }
