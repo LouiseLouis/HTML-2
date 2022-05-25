@@ -32,15 +32,13 @@ td.logo {
 }
 .news {
     text-align: center;
-    border-top: 3px rgb(85, 147, 23);
+    color: green;
     margin: 0 auto;
-    color: gray;
 }
 span {
     color: green;
 }
 .help {
     text-align: center;
-    color: white;
     margin: 0 auto;
 }
